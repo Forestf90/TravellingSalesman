@@ -1,0 +1,10 @@
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\bin\Debug\Komiwojazer.exe.config
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\bin\Debug\Komiwojazer.exe
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\bin\Debug\Komiwojazer.pdb
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.csprojResolveAssemblyReference.cache
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.Form1.resources
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.Properties.Resources.resources
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.csproj.GenerateResource.Cache
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.csproj.CoreCompileInputs.cache
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.exe
+C:\Users\Forestf\Desktop\Komiwojazer\Komiwojazer\obj\Debug\Komiwojazer.pdb
